@@ -16,3 +16,18 @@ The form allows new users to register by providing:
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## ⚙️ Implementation Notes
+- Built with semantic HTML5 tags (`<fieldset>`, `<legend>`, `<label>`, `<main>`).
+- Accessibility features included (labels, required fields, aria-label).
+- No CSS styling — focus is on **structure and functionality**.
+- Validates required fields, email format, phone pattern, and password length.
+
+---
+
+## 🚀 How to Use
+1. Open `index.html` in any modern browser.
+2. Fill in the form and test the validation.
+3. Submit or reset the form as needed.
